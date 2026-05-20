@@ -9,5 +9,5 @@ metadata:
     jira/label: backstage-component:resident-plus
 spec:
   type: application
-  owner: ICS
+  owner: sayush950@gmail.com
   lifecycle: experimental
