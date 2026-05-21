@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: sayush950/resident-plus
     jira/project-key: SCRUM
-    jira/label: backstage-component:resident-plus
+    jira/label: component:resident-plus
 spec:
   type: application
   owner: sayush950@gmail.com
